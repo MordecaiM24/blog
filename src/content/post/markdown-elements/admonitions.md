@@ -4,6 +4,7 @@ description: "This post showcases using the markdown admonition feature in Astro
 publishDate: "25 Aug 2024"
 updatedDate: "4 July 2025"
 tags: ["markdown", "admonitions"]
+draft: true
 ---
 
 ## What are admonitions
@@ -115,6 +116,7 @@ This is a note with a custom title.
 :::
 
 ## GitHub Repository Cards
+
 You can add dynamic cards that link to GitHub repositories, on page load, the repository information is pulled from the GitHub API.
 
 ::github{repo="chrismwilliams/astro-theme-cactus"}

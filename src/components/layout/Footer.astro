@@ -1,5 +1,5 @@
 ---
-import { menuLinks, siteConfig } from "@/site.config";
+import { siteConfig } from "@/site.config";
 
 const year = new Date().getFullYear();
 ---
@@ -16,12 +16,5 @@ const year = new Date().getFullYear();
 		class="flex gap-x-2 sm:gap-x-0 sm:divide-x sm:divide-gray-500"
 	>
 		<p id="footer_links" class="sr-only">More on this site</p>
-		{
-			menuLinks.map((link) => (
-				<a class="hover:text-global-text px-4 py-2 hover:underline sm:py-0" href={link.path}>
-					{link.title}
-				</a>
-			))
-		}
 	</nav>
 </footer>

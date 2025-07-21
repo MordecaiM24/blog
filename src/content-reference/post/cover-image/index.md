@@ -7,5 +7,4 @@ coverImage:
   src: "./cover.png"
   alt: "Astro build wallpaper"
 tags: ["test", "image"]
-draft: true
 ---
