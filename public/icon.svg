@@ -1,1 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 500 500"><path fill="#B04304" d="M295.334 103.333v-40L340.667 90v40l-45.333-26.667ZM250.001 63.333l-45.334-26.666v426.666L250.001 490V63.333Z"/><path fill="#FF5D01" d="m250.001 129.944 45.333-26.667 45.333 26.667-45.333 26.667-45.333-26.667ZM204.667 36.667 250.001 10l45.333 26.667-45.333 26.666-45.334-26.666ZM295.334 63.277l45.333-26.666L386 63.277l-45.333 26.667-45.333-26.667ZM114 223.277l45.333-26.667 45.334 26.667-45.334 26.667L114 223.277ZM250 249.944l-45.333-26.667v53.333L250 249.944Z"/><path fill="#53C68C" d="m250 63.333 45.333-26.666v120L340.667 130V90L386 63.333V170l-90.667 53.333v240L250 490V316.667L159.333 370V250l45.334-26.667v53.334L250 250V63.333Z"/><path fill="#B04304" d="M159.333 250 114 223.334v120L159.333 370V250Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="112" width="96" viewBox="0 0 96 112" class="diagram" text-anchor="middle" font-family="monospace" font-size="13px" stroke-linecap="round">
+<path d="M 26,64 L 26,80" fill="none" stroke="black"/><path d="M 22,64 L 22,80" fill="none" stroke="black"/>
+<path d="M 90,32 L 90,80" fill="none" stroke="black"/><path d="M 86,32 L 86,80" fill="none" stroke="black"/>
+<rect class="gray" x="76" y="72" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="76" y="56" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="76" y="40" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="76" y="24" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="76" y="8" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="68" y="72" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="68" y="56" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="68" y="40" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="68" y="24" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="68" y="8" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="60" y="24" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="60" y="8" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="52" y="40" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="52" y="24" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="44" y="56" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="44" y="40" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="36" y="56" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="36" y="40" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="28" y="40" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="28" y="24" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="20" y="24" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="20" y="8" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="12" y="72" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="12" y="56" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="12" y="40" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="12" y="24" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="12" y="8" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="4" y="72" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="4" y="56" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="4" y="40" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="4" y="24" width="8" height="16" fill="rgb(0,0,0)"/>
+<rect class="gray" x="4" y="8" width="8" height="16" fill="rgb(0,0,0)"/>
+<g class="text">
+<text x="32" y="20">╗</text>
+<text x="88" y="20">╗</text>
+<text x="40" y="36">╗</text>
+<text x="24" y="52">╔</text>
+<text x="64" y="52">╔</text>
+<text x="32" y="68">╚</text>
+<text x="56" y="68">╔</text>
+<text x="64" y="68">╝</text>
+<text x="40" y="84">╚</text>
+<text x="48" y="84">═</text>
+<text x="56" y="84">╝</text>
+<text x="8" y="100">╚</text>
+<text x="16" y="100">═</text>
+<text x="24" y="100">╝</text>
+<text x="72" y="100">╚</text>
+<text x="80" y="100">═</text>
+<text x="88" y="100">╝</text>
+</g>
+</svg>
